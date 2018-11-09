@@ -3,4 +3,3 @@ function shout(string) {
   string.toUpperCase()
 }
 
-'Hello!'.toUpperCase()
