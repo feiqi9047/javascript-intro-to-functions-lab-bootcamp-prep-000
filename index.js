@@ -9,3 +9,5 @@ function whisper(string) {
 }
 
 'Hello!'.toLowerCase()
+
+function logshout(string) {console.logshout
