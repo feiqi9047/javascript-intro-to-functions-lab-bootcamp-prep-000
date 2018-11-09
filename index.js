@@ -11,5 +11,6 @@ function whisper(string) {
 'Hello!'.toLowerCase()
 
 function logShout(string) {
-  console.log('Hello')
+  console.log(string)
 }
+'Hello!'.toUpperCase()
