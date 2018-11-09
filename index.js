@@ -10,7 +10,7 @@ function whisper(string) {
 
 'Hello!'.toLowerCase()
 
-function logshout(string) {
+function shout(string) {
   console.log.toUpperCase()}
 
 'Hello!'.toUpperCase()
