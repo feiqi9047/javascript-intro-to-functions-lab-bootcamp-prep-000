@@ -14,4 +14,4 @@ function say(string) {
   console.log('Hello')
 }
 
-say('Hello!'.toUpperCase())
+say('HELLO!')
