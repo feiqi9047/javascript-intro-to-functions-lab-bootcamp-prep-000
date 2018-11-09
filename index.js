@@ -11,6 +11,6 @@ function whisper(string) {
 'Hello!'.toLowerCase()
 
 function logShout(string) {
-  reutnr console.log(string)
+  reutnr console.log(HELLO)
 }
 LogShout("HELLO!")
